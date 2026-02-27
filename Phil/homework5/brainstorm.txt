@@ -1,0 +1,32 @@
+1. Dark matter
+2. Black holes
+3. Quantum computing
+4.//
+5.//
+
+Topic: Quantum Computing
+Source: The IBM Quantum "Qiskit" documentation for physics simulations.
+Summary: This relates to the topic by giving tools to simulate quantum systems that are too complex for classical computers. 
+
+Topic: Dark Matter
+Source: The Dark Energy Survey (DES) public data release.
+Summary: The source provides vast maps of galaxy distributions that scientists use to perform weak gravitational lensing analysis.
+This can help reveal the location of dark matter by showing how it bends the light of distant galaxies.
+
+Topic: Black Holes
+Source: The Event Horizon Telescope (EHT) Image Data (M87* or Sgr A*).
+Summary: This data provides the first-ever direct visual evidence of a black hole's shadow. 
+It allows researchers to test general relativity in extreme environments and measure the mass and spin of supermassive black holes.
+
+(idea generation assited by LLMs)
+Idea.simpler
+Write a Python script that demonstrates Shor's Algorithm to find the prime factors of a number. 
+I could write a function that takes a small integer and simulate how a quantum computer would find its factors using modular exponentiation and period finding. 
+The script would use a simple loop to compare the speed of this "quantum" approach against a standard classical "trial division" loop.
+
+Idea.complicated
+A Quantum Coin-Flip & Random Walk Simulator. 
+Instead of a full stellar fusion model, I would use Python to simulate a "Quantum Random Walk". 
+While a classical random walk stays near the center, a quantum walk spreads out much faster. 
+I could use a Python library to simulate quantum "superposition" to show how a quantum particle moves across a grid compared to a classical one.
+
